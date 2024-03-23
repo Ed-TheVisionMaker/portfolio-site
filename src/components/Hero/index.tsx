@@ -26,7 +26,7 @@ export default function Hero() {
                 Frontend Developer - React, JavaScript, TypeScript, Next.js
               </p>
               <div className='mt-10'>
-                <p className='mb-4'>Get to know me better</p>
+                <p className='mb-4 text-xl font-semibold'>Get to know me better</p>
                 <div className='flex items-center justify-center gap-x-6'>
                   <a
                     href='https://github.com/Ed-TheVisionMaker'
